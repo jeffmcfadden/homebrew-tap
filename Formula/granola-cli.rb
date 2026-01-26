@@ -1,12 +1,12 @@
 class GranolaCli < Formula
   desc "Granola CLI tool"
   homepage "https://github.com/jeffmcfadden/granola-cli"
-  version "0.1.1"
+  version "0.1.2"
 
   head "https://github.com/jeffmcfadden/granola-cli.git", branch: "main"
 
-  url "https://github.com/jeffmcfadden/granola-cli/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "9e7d79c1fee906f389c51331a4d2961fc1b04d25487c800c351b001631ad9bed"
+  url "https://github.com/jeffmcfadden/granola-cli/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "a3802b159a2cef64e76dfd489a990cadc82480bf4fa2ea945ac048ec31574bfa"
 
   livecheck do
     url :stable
