@@ -5,8 +5,8 @@ class GranolaCli < Formula
 
   head "https://github.com/jeffmcfadden/granola-cli.git", branch: "main"
 
-  url "https://github.com/jeffmcfadden/granola-cli/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "e6f90d32cb46a34b27a850b7f7a99a188103a7bd4168f8b3e3f7fe1842b23cc6"
+  url "https://github.com/jeffmcfadden/granola-cli/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "d094f180a80e9d2f2509ce06b8e73e433f0cfd6d0e6e86ec49dbdb441ff153fe"
 
   livecheck do
     url :stable
