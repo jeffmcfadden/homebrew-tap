@@ -1,7 +1,7 @@
 class GranolaCli < Formula
   desc "Granola CLI tool"
   homepage "https://github.com/jeffmcfadden/granola-cli"
-  version "0.2.1"
+  version "0.3.1"
 
   head "https://github.com/jeffmcfadden/granola-cli.git", branch: "main"
 
