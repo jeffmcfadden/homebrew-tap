@@ -1,6 +1,6 @@
 cask "agent-manager" do
-  version "1.0.0"
-  sha256 "902b49ac5561d4a7b232c3efa4880cbf7fab3c7f67e70bba7b7a8a18038ec2ec"
+  version "1.0.1"
+  sha256 "abe0720f9ed4e2cee1875875e4460f552c300f88f81c344f978b43c5eb17d4e8"
 
   url "https://github.com/jeffmcfadden/agent-manager/releases/download/v#{version}/AgentManager-#{version}-macos-arm64.zip"
   name "Agent Manager"
