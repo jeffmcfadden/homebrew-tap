@@ -13,6 +13,18 @@ tap "jeffmcfadden/tap"
 brew "<formula>"
 ```
 
+## Agent Manager
+
+Install the Apple Silicon app (macOS 13 or newer) and its tmux dependency:
+
+```sh
+brew install --cask jeffmcfadden/tap/agent-manager
+```
+
+You can also [download the app from GitHub Releases](https://github.com/jeffmcfadden/agent-manager/releases).
+The app is ad hoc signed and is not notarized; macOS may require approval in
+System Settings → Privacy & Security on first launch.
+
 ## Maintenance with Codex CLI
 
 From any project directory, start Codex with access to this checkout:
